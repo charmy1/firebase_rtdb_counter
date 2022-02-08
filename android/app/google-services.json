@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594083994126",
+    "project_id": "counterflutterrtdb",
+    "storage_bucket": "counterflutterrtdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594083994126:android:fab7435c9690d7afe1fa5f",
+        "android_client_info": {
+          "package_name": "com.test.rtdb_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594083994126-6rctphp8bf8d6uf7o81h35bsjn8lf2su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUG7goIYLOCkIITYczDYEbqfLYl8iZUb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594083994126-6rctphp8bf8d6uf7o81h35bsjn8lf2su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
