@@ -3,8 +3,8 @@ import 'dart:developer';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:untitled1/application/counter_cubit.dart';
-import 'package:untitled1/application/counter_state.dart';
+import 'package:untitled1/application/counter/counter_cubit.dart';
+import 'package:untitled1/application/counter/counter_state.dart';
 import 'package:untitled1/infrastructure/counter_model.dart';
 
 class PageThree extends StatefulWidget {

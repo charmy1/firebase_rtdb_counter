@@ -8,7 +8,7 @@ import 'package:firebase_database/firebase_database.dart' as _i3;
 import 'package:get_it/get_it.dart' as _i1;
 import 'package:injectable/injectable.dart' as _i2;
 
-import '../application/counter_cubit.dart' as _i6;
+import '../application/counter/counter_cubit.dart' as _i6;
 import '../domain/counter_interface.dart' as _i4;
 import '../infrastructure/counter_impl.dart' as _i5;
 import 'firebase_injectable_module.dart'
